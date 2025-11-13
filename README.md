@@ -1,7 +1,7 @@
 # OPEN-SOURCE-EX-5
 ## NAME : Vignesh raaj 
 ## REG NO : 212223230239
-## DEPT : CSE(CS)
+## DEPT : AI&DS
 # STEPS INVOLVED:
 ### STEP 1 : sudo -i
 ### STEP 2 : crontab -u harry -e
